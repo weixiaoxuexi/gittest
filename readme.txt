@@ -4,3 +4,4 @@ Git is under the GPL
 Git is a powful tools
 This is the dev branck info
 this is a sample case
+Dev branch add in the readme.txt
